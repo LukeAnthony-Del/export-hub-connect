@@ -2,7 +2,7 @@
   "name": "Export Connect",
   "short_name": "Connect",
   "description": "Select and securely send photos and videos to your private Export Hub.",
-  "id": "/pwa-test/export-connect/",
+  "id": "/export-hub-connect/export-connect/",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
