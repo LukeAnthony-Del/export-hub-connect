@@ -2,7 +2,7 @@
   "name": "Export Hub",
   "short_name": "Export Hub",
   "description": "Private gallery for media sent from Export Connect.",
-  "id": "/pwa-test/export-hub/",
+  "id": "/export-hub-connect/export-hub/",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
